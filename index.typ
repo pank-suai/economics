@@ -9,7 +9,7 @@
 
 
 #show: ilm.with(
-  title: [Название],
+  title: [Экономика],
   author: 
     "Панков Василий <pank-su>",
   author-format: (author) => [
@@ -20,9 +20,10 @@
       )][#h(1em)][#text(author, size: 1.6em)]
   ],
   date: datetime.today(),
-  abstract: [Кто введёт? Насколько краткий конспект? на чём основан?],
+  abstract: [],
   table-of-contents: outline(depth: 2),
-  external-link-circle: false
+    external-link-circle: false,
+    chapter-pagebreak: false
 )
 
 #include "src/000_введение.typ"
