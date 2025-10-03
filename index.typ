@@ -27,6 +27,12 @@
 )
 
 #include "src/000_введение.typ"
+#include "src/001_методы.typ"
+#include "src/002_экономические_законы.typ"
+#include "src/003_кривая_производственных_возможностей.typ"
+#include "src/004_производство_товар.typ"
+#include "src/005_блага.typ"
+#include "src/006_деньги.typ"
 
 
 /*
