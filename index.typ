@@ -33,6 +33,7 @@
 #include "src/004_производство_товар.typ"
 #include "src/005_блага.typ"
 #include "src/006_деньги.typ"
+#include "src/007_капитал.typ"
 
 
 /*
