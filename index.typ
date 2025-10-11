@@ -34,6 +34,7 @@
 #include "src/005_блага.typ"
 #include "src/006_деньги.typ"
 #include "src/007_капитал.typ"
+#include "src/008_основные_типы_и_виды_экономических_систем.typ"
 
 
 /*
