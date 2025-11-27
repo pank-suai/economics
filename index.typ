@@ -21,7 +21,7 @@
   ],
   date: datetime.today(),
   abstract: [],
-  table-of-contents: outline(depth: 2),
+  table-of-contents: outline(depth: 3),
     external-link-circle: false,
     chapter-pagebreak: false
 )
